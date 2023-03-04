@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mis tareas</string>
+    <string name="title">Lista de tareas</string>
+    <string name="add_task">Agregar tarea</string>
+    <string name="delete">Eliminar</string>
+    <string name="completed">Completada</string>
+    <string name="confirm_delete">¿Está seguro que desea eliminar esta tarea?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">Aceptar</string>
+</resources>
